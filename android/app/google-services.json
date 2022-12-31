@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "324924756617",
+    "project_id": "colijet",
+    "storage_bucket": "colijet.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:324924756617:android:a252e47ad49a80fd616c58",
+        "android_client_info": {
+          "package_name": "com.colijet.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "324924756617-9ogv6jdp12hhnu96vntrqht093pehoe5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDpuMVgodvDHwSYcMJDCwCjlpED6s35d-Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "324924756617-9ogv6jdp12hhnu96vntrqht093pehoe5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:324924756617:android:6854d23ff1d36399616c58",
+        "android_client_info": {
+          "package_name": "com.taamalli.note"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "324924756617-9ogv6jdp12hhnu96vntrqht093pehoe5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDpuMVgodvDHwSYcMJDCwCjlpED6s35d-Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "324924756617-9ogv6jdp12hhnu96vntrqht093pehoe5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
